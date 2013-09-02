@@ -3,6 +3,9 @@
 Academy is a child theme built for PageLines DMS.  
 
 == Changelog ==
+= 1.0.1 =
+* Removed disallowed section
+* Added splash.png
 
 = 1.0 =
 * Initial release.
