@@ -36,7 +36,7 @@ class academyTheme {
       </div>
       <div style="margin-top:20px;color:#444;">
         <p style="border-bottom:1px solid #ccc;margin:0 0 0.75em;"><strong><?php _e('Overview','academy');?></strong></p>
-        <p style="font-size:12px;line-height:14px;"><?php _e('Academy Theme is designed to work with core PageLines sections and also includes two customized sections (Academy Hero & Academy Callout) and a bonus section (Post Pins). To edit sections, click the pencil icon in the top left corner.','academy');?></p>
+        <p style="font-size:12px;line-height:14px;"><?php _e('Academy Theme is designed to work with core PageLines sections and also includes two customized sections (Academy Hero & Academy Callout). To edit sections, click the pencil icon in the top left corner.','academy');?></p>
       </div>
       <div style="margin-top:20px;color:#444;">
         <p style="border-bottom:1px solid #ccc;margin:0 0 0.75em;"><strong><?php _e('Instructions','academy');?></strong></p>
